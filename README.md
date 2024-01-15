@@ -1,2 +1,3 @@
 # Side-Quest
 App for social good to promote positivity in communities in the form of fun challeneges
+Ever wanted to think of life as an RPG game? Sometimes we go on "side-quests" for fun but every side quest always have a hidden reward. Wouldn't it be fun to issue quests virutally and recieve rewards for helping others? Doesnt have to be money but it could be a social credit or "reputation points" but with every side quest you do you would be rewarded with experiences while in hopes of making this will inspire to do some good in our communities. For example picking up garbage, shoveling snow for an elderly neighbor, helping someone deliver something on the way.
